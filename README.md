@@ -5,6 +5,7 @@ Exploratory analysis of historical airline passenger data using Python, pandas a
 ## Project Overview
 
 This project investigates trends in airline passenger numbers over time using a historical flights dataset. The analysis focuses on identifying long-term trends and seasonal patterns in passenger demand.
+The project was completed as part of my ongoing development in Python and data analysis.
 
 ## Skills Demonstrated
 
