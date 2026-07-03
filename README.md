@@ -43,3 +43,14 @@ Potential extensions to this project include:
 - Applying forecasting techniques to predict future passenger numbers.
 - Creating interactive visualisations using Plotly.
 - Exploring additional time-series analysis methods.
+
+## Visualisations
+
+### Passenger Numbers Over Time
+![Passenger numbers over time](flight_passengers_over_time.png)
+
+### Average Passengers Per Year
+![Average passengers per year](average_passengers_per_year.png)
+
+### Average Passengers Per Month
+![Average passengers per month](average_passengers_per_month.png)
